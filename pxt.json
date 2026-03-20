@@ -1,0 +1,16 @@
+{
+    "name": "arcade-fullscreen-ui",
+    "version": "0.0.1",
+    "description": "Fullscreen simulator + transparent buttons for MakeCode Arcade",
+    "files": [
+        "custom.ts"
+    ],
+    "testFiles": [],
+    "public": true,
+    "simulator": {
+        "autoRun": true,
+        "files": [
+            "sim.ts"
+        ]
+    }
+}
